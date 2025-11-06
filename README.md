@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">A Recent CS and ITI Graduate Software Engineer specialized in C#, ASP.NET Core, Entity Framework, Angular and SQL Server. Experienced in building Web Applications, RESTful APIs and scalable backend systems using Clean Architecture and SOLID principles, with a focus on performance, security, and clean code.</p>
+<p align="left">A Detail Orienrted Graduate Software Engineer specialized in C#, ASP.NET Core, Entity Framework, Angular and SQL Server. Experienced in building Web Applications, RESTful APIs and scalable backend systems using Clean Architecture and SOLID principles, with a focus on performance, security, and clean code.</p>
 
 ###
 
